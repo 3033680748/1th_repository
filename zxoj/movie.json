@@ -1,0 +1,69 @@
+[
+    {
+        "movie_id": "000001",
+        "movie_name": "bvmuc",
+        "movie_rating": 2.0,
+        "movie_author": [
+            "nljad"
+        ],
+        "movie_type": "riace",
+        "movie_language": "uwbi5",
+        "movie_imdb": "bfkzl",
+        "movie_date": "2020-12-30",
+        "movie_area": "seelx"
+    },
+    {
+        "movie_id": "000002",
+        "movie_name": "6vanj",
+        "movie_rating": 0.5,
+        "movie_author": [
+            "wxkxw",
+            "x9u9j"
+        ],
+        "movie_type": "3obwl",
+        "movie_language": "cm1vj",
+        "movie_imdb": "ziwj0",
+        "movie_date": "2021-10-09",
+        "movie_area": "xagqn"
+    },
+    {
+        "movie_id": "000003",
+        "movie_name": "a61hi",
+        "movie_rating": 2.2,
+        "movie_author": [
+            "xf7a4"
+        ],
+        "movie_type": "h6tqd",
+        "movie_language": "7a9f3",
+        "movie_imdb": "fxwrs",
+        "movie_date": "2022-02-15",
+        "movie_area": "i4fug"
+    },
+    {
+        "movie_id": "000004",
+        "movie_name": "dg3pf",
+        "movie_rating": 7.7,
+        "movie_author": [
+            "2jb6r",
+            "1hyn6"
+        ],
+        "movie_type": "50der",
+        "movie_language": "0xjby",
+        "movie_imdb": "opoou",
+        "movie_date": "2021-12-11",
+        "movie_area": "a745l"
+    },
+    {
+        "movie_id": "000005",
+        "movie_name": "clxr2",
+        "movie_rating": 3.6,
+        "movie_author": [
+            "2w7m4"
+        ],
+        "movie_type": "auykn",
+        "movie_language": "3zjjp",
+        "movie_imdb": "terpf",
+        "movie_date": "2021-03-01",
+        "movie_area": "ee59a"
+    }
+]
